@@ -6,19 +6,21 @@ html, body {
 h1 {
     margin: 0 auto;
     text-align: center;
+    padding: 50px;
+    background-color: lightgrey;
 }
 
 #container {
     width: 300px;
     margin: 0 auto;
     margin-top: 20px;
-    background-color: royalblue;
+    background-color: orange;
 }
 
 #search {
     display: flex;
     padding: 20px;
-    background-color: orange;
+    background-color: royalblue;
 }
 
 #search label {
